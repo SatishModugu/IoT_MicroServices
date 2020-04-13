@@ -15,13 +15,13 @@ public class SendEmail {
 	public static void sendEmail(double i)
 	{
 		// Recipient's email ID needs to be mentioned.
-        String to = "smodugu@unomaha.edu";//change accordingly
+        String to = "";//change accordingly
 
         // Sender's email ID needs to be mentioned
-        String from = "satishreddym@zoho.com";//change accordingly
+        String from = "";//change accordingly
         
-        final String username = "satishreddym@zoho.com";//change accordingly
-        final String password = "Aosproject100";//change accordingly
+        final String username = "";//change accordingly
+        final String password = "";//change accordingly
 
         // Zoho's SMTP server
         String host = "smtp.zoho.com";
